@@ -1,0 +1,11 @@
+D:\E Drive\DotNet\DotNet_Assignments\EmployeeLib\bin\Debug\net10.0\EmployeeLib.deps.json
+D:\E Drive\DotNet\DotNet_Assignments\EmployeeLib\bin\Debug\net10.0\EmployeeLib.dll
+D:\E Drive\DotNet\DotNet_Assignments\EmployeeLib\bin\Debug\net10.0\EmployeeLib.pdb
+D:\E Drive\DotNet\DotNet_Assignments\EmployeeLib\obj\Debug\net10.0\EmployeeLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\E Drive\DotNet\DotNet_Assignments\EmployeeLib\obj\Debug\net10.0\EmployeeLib.AssemblyInfoInputs.cache
+D:\E Drive\DotNet\DotNet_Assignments\EmployeeLib\obj\Debug\net10.0\EmployeeLib.AssemblyInfo.cs
+D:\E Drive\DotNet\DotNet_Assignments\EmployeeLib\obj\Debug\net10.0\EmployeeLib.csproj.CoreCompileInputs.cache
+D:\E Drive\DotNet\DotNet_Assignments\EmployeeLib\obj\Debug\net10.0\EmployeeLib.dll
+D:\E Drive\DotNet\DotNet_Assignments\EmployeeLib\obj\Debug\net10.0\refint\EmployeeLib.dll
+D:\E Drive\DotNet\DotNet_Assignments\EmployeeLib\obj\Debug\net10.0\EmployeeLib.pdb
+D:\E Drive\DotNet\DotNet_Assignments\EmployeeLib\obj\Debug\net10.0\ref\EmployeeLib.dll

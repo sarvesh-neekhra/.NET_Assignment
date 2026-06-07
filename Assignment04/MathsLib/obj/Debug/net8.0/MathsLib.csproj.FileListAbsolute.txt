@@ -1,0 +1,11 @@
+D:\E Drive\DotNet\DotNet_Assignments\MathsLib\bin\Debug\net8.0\MathsLib.deps.json
+D:\E Drive\DotNet\DotNet_Assignments\MathsLib\bin\Debug\net8.0\MathsLib.dll
+D:\E Drive\DotNet\DotNet_Assignments\MathsLib\bin\Debug\net8.0\MathsLib.pdb
+D:\E Drive\DotNet\DotNet_Assignments\MathsLib\obj\Debug\net8.0\MathsLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\E Drive\DotNet\DotNet_Assignments\MathsLib\obj\Debug\net8.0\MathsLib.AssemblyInfoInputs.cache
+D:\E Drive\DotNet\DotNet_Assignments\MathsLib\obj\Debug\net8.0\MathsLib.AssemblyInfo.cs
+D:\E Drive\DotNet\DotNet_Assignments\MathsLib\obj\Debug\net8.0\MathsLib.csproj.CoreCompileInputs.cache
+D:\E Drive\DotNet\DotNet_Assignments\MathsLib\obj\Debug\net8.0\MathsLib.dll
+D:\E Drive\DotNet\DotNet_Assignments\MathsLib\obj\Debug\net8.0\refint\MathsLib.dll
+D:\E Drive\DotNet\DotNet_Assignments\MathsLib\obj\Debug\net8.0\MathsLib.pdb
+D:\E Drive\DotNet\DotNet_Assignments\MathsLib\obj\Debug\net8.0\ref\MathsLib.dll

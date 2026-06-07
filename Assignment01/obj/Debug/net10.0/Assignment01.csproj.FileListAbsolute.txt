@@ -1,0 +1,28 @@
+E:\DotNet\DotNet_Assignments\Assignment01\bin\Debug\net10.0\Assignment01.exe
+E:\DotNet\DotNet_Assignments\Assignment01\bin\Debug\net10.0\Assignment01.deps.json
+E:\DotNet\DotNet_Assignments\Assignment01\bin\Debug\net10.0\Assignment01.runtimeconfig.json
+E:\DotNet\DotNet_Assignments\Assignment01\bin\Debug\net10.0\Assignment01.dll
+E:\DotNet\DotNet_Assignments\Assignment01\bin\Debug\net10.0\Assignment01.pdb
+E:\DotNet\DotNet_Assignments\Assignment01\obj\Debug\net10.0\Assignment01.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\DotNet_Assignments\Assignment01\obj\Debug\net10.0\Assignment01.AssemblyInfoInputs.cache
+E:\DotNet\DotNet_Assignments\Assignment01\obj\Debug\net10.0\Assignment01.AssemblyInfo.cs
+E:\DotNet\DotNet_Assignments\Assignment01\obj\Debug\net10.0\Assignment01.csproj.CoreCompileInputs.cache
+E:\DotNet\DotNet_Assignments\Assignment01\obj\Debug\net10.0\Assignment01.dll
+E:\DotNet\DotNet_Assignments\Assignment01\obj\Debug\net10.0\refint\Assignment01.dll
+E:\DotNet\DotNet_Assignments\Assignment01\obj\Debug\net10.0\Assignment01.pdb
+E:\DotNet\DotNet_Assignments\Assignment01\obj\Debug\net10.0\Assignment01.genruntimeconfig.cache
+E:\DotNet\DotNet_Assignments\Assignment01\obj\Debug\net10.0\ref\Assignment01.dll
+D:\E Drive\DotNet\DotNet_Assignments\Assignment01\obj\Debug\net10.0\Assignment01.GeneratedMSBuildEditorConfig.editorconfig
+D:\E Drive\DotNet\DotNet_Assignments\Assignment01\obj\Debug\net10.0\Assignment01.AssemblyInfoInputs.cache
+D:\E Drive\DotNet\DotNet_Assignments\Assignment01\obj\Debug\net10.0\Assignment01.AssemblyInfo.cs
+D:\E Drive\DotNet\DotNet_Assignments\Assignment01\obj\Debug\net10.0\Assignment01.csproj.CoreCompileInputs.cache
+D:\E Drive\DotNet\DotNet_Assignments\Assignment01\bin\Debug\net10.0\Assignment01.exe
+D:\E Drive\DotNet\DotNet_Assignments\Assignment01\bin\Debug\net10.0\Assignment01.deps.json
+D:\E Drive\DotNet\DotNet_Assignments\Assignment01\bin\Debug\net10.0\Assignment01.runtimeconfig.json
+D:\E Drive\DotNet\DotNet_Assignments\Assignment01\bin\Debug\net10.0\Assignment01.dll
+D:\E Drive\DotNet\DotNet_Assignments\Assignment01\bin\Debug\net10.0\Assignment01.pdb
+D:\E Drive\DotNet\DotNet_Assignments\Assignment01\obj\Debug\net10.0\Assignment01.dll
+D:\E Drive\DotNet\DotNet_Assignments\Assignment01\obj\Debug\net10.0\refint\Assignment01.dll
+D:\E Drive\DotNet\DotNet_Assignments\Assignment01\obj\Debug\net10.0\Assignment01.pdb
+D:\E Drive\DotNet\DotNet_Assignments\Assignment01\obj\Debug\net10.0\Assignment01.genruntimeconfig.cache
+D:\E Drive\DotNet\DotNet_Assignments\Assignment01\obj\Debug\net10.0\ref\Assignment01.dll

@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Assignment01/Assignment01.csproj" />
+  <Project Path="Assignment02/Assignment02.csproj" />
+  <Project Path="EmployeeLib/EmployeeLib.csproj" Id="76e0722c-068c-49ee-8021-06dd882df9ed" />
+  <Project Path="HRMS/HRMS.csproj" Id="361243d5-e79a-4c2c-8e5d-696d91cd1642" />
+  <Project Path="MathsClient/MathsClient.csproj" Id="03bb0f05-f5bc-456a-917e-533b3d2ad96c" />
+  <Project Path="MathsLib/MathsLib.csproj" Id="5376ddc6-adc6-4349-9582-733b14ca1a8b" />
+  <Project Path="TestEmployeeLib/TestEmployeeLib.csproj" Id="f9919978-02d6-4dfb-9f4b-89bc2d3ea216" />
+</Solution>
